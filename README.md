@@ -10,8 +10,7 @@ It uses **Excel, Pivot Tables, Charts, and VBA (Macros)** to automate data proce
 
 ## 📸 Dashboard Preview  
 
-![Sales Dashboard](images/sales-dashboard.png.png)
-
+![Sales Dashboard](sales-dashboard.png.png)
 ---
 
 ## 🎯 Key Features  
